@@ -1,3 +1,8 @@
+# TODO
+
+- Set typescript preferences and add types
+- Replace dots in map placeholder with Cell objects
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
